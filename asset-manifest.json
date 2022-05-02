@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/weather-react/static/css/main.073c9b0a.css",
-    "main.js": "/weather-react/static/js/main.d51319a6.js",
-    "static/js/787.28cb0dcd.chunk.js": "/weather-react/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/weather-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/weather-react/index.html",
-    "main.073c9b0a.css.map": "/weather-react/static/css/main.073c9b0a.css.map",
-    "main.d51319a6.js.map": "/weather-react/static/js/main.d51319a6.js.map",
-    "787.28cb0dcd.chunk.js.map": "/weather-react/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/weather_react/static/css/main.073c9b0a.css",
+    "main.js": "/weather_react/static/js/main.3448731c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/weather_react/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/weather_react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/weather_react/index.html",
+    "main.073c9b0a.css.map": "/weather_react/static/css/main.073c9b0a.css.map",
+    "main.3448731c.js.map": "/weather_react/static/js/main.3448731c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/weather_react/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d51319a6.js"
+    "static/js/main.3448731c.js"
   ]
 }
